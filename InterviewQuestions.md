@@ -1,8 +1,9 @@
 
 ### 1. What is the most influential book or blog post you’ve read regarding front-end development?
+Regarding front-end development, Mozilla Developer Network and Google Web Fundamentals are the most influential to me.
 
 ### 2. If you could master one technology this year, what would it be and why?
-
+I would like to master technology related to Rust language so I can use the language in the back-end and front-end via web assembly.
 
 ### 3. Describe any front-end web application framework (preferably one that you use). How does it work? What are the upsides and downsides?
 
